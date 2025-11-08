@@ -3,28 +3,27 @@
 🛡️ Django Authentication System
 A secure and fully functional authentication system built with Django, featuring user registration, login, logout, and password management.
 
-🚀 Features
+## 🚀 Features
 
-🔐 User Registration
+- 🔐 User Registration
 
-🔑 Login and Logout
+- 🔑 Login and Logout
 
-🔄 Password Reset (via email)
+- 🔄 Password Reset (via email)
 
-✏️ Profile Update
+- ✏️ Profile Update
 
-🧾 Form Validation and Error Handling
+- 🧾 Form Validation and Error Handling
 
-🗄️ SQLite / PostgreSQL support
+- 🗄️ SQLite / PostgreSQL support
+## 🧰 Django’s built-in Authentication system
 
-🧰 Django’s built-in Authentication system
+- 🛠️ Tech Stack
 
-🛠️ Tech Stack
+- Backend: Django (Python)
 
-Backend: Django (Python)
+- Database: SQLite (default)
 
-Database: SQLite (default)
+- Frontend: HTML, CSS, Bootstrap (optional)
 
-Frontend: HTML, CSS, Bootstrap (optional)
-
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
